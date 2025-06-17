@@ -33,17 +33,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[NhoxTrau]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[NhoxTrau]&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ## 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[NhoxTrau]&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[NhoxTrau]&theme=react-dark&hide_border=true" />
 
 ## 🏆 GitHub Trophies
 <div align="center">
