@@ -1,6 +1,6 @@
 # Hi there, I'm **Pham Minh Thien** 👋
 
-<img align="right" alt="Cybersecurity" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img align="right" alt="Cybersecurity" width="400">
 
 ## 🛡️ **Cybersecurity Enthusiast | Third-year Student | PTIT**
 
