@@ -76,7 +76,7 @@
 ## 🚀 Featured Projects
 
 ### 🔐 **AES Encryption Tool (128/192-bit)**
-[![Repository](https://img.shields.io/badge/-View%20Repository-000?style=for-the-badge&logo=github)](https://github.com/thienpham5301/aes-encryption)
+[![Repository](https://img.shields.io/badge/-View%20Repository-000?style=for-the-badge&logo=github)](https://github.com/ch1lL9uy/MAT-MA-HOC-CO-SO)
 
 **Tech Stack:** `C++` `Cryptography` `File Security`
 
@@ -91,96 +91,9 @@
 ### 🎯 **CTF Challenge Solutions**
 [![Repository](https://img.shields.io/badge/-View%20Repository-000?style=for-the-badge&logo=github)](https://github.com/thienpham5301/ctf-writeups)
 
-**Categories:** `Web Exploitation` `Reverse Engineering` `Cryptography` `Forensics`
+**Categories:** `Reverse Engineering` 
 
 **Description:** Collection of detailed writeups and solutions from various CTF competitions including local and international events.
 
-### 🔍 **Vulnerability Scanner**
-[![Repository](https://img.shields.io/badge/-View%20Repository-000?style=for-the-badge&logo=github)](https://github.com/thienpham5301/vuln-scanner)
-
-**Tech Stack:** `Python` `Nmap` `Security Testing`
-
-**Description:** Automated vulnerability scanning tool with custom detection modules and comprehensive reporting capabilities.
-
 ---
 
-## 🏆 Achievements & Certifications
-
-### 🥇 **Competition Highlights**
-- 🏅 **CTF Competitions**: Regular participant in cybersecurity capture-the-flag events
-- 💻 **ICPC**: Algorithmic problem-solving competitions
-- 🛡️ **Security Challenges**: Various cybersecurity challenge platforms
-
-### 📜 **Certifications** (In Progress)
-- 🎯 **CEH** (Certified Ethical Hacker) - Preparing
-- 🔒 **OSCP** (Offensive Security Certified Professional) - Studying
-- 🛡️ **Security+** - Planning
-
----
-
-## 📝 Latest Security Research & Writeups
-
-<!-- BLOG-POST-LIST:START -->
-- [SQL Injection Techniques in Modern Web Applications](https://github.com/thienpham5301/security-research/blob/main/sql-injection-modern.md)
-- [Mobile App Security Testing Methodology](https://github.com/thienpham5301/security-research/blob/main/mobile-security-testing.md)
-- [Network Traffic Analysis for Threat Detection](https://github.com/thienpham5301/security-research/blob/main/network-traffic-analysis.md)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-thienpham5301@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thienpham5301@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thienpham5301)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thienpham5301)
-[![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thienpham5301)
-
-</div>
-
----
-
-## 💡 Security Quote
-
-> *"The weakest link in the security chain is the strongest link in the attacker's chain."* 
-> 
-> — **Bruce Schneier**
-
----
-
-## 😎 Fun Facts About Me
-
-- 🔍 **Curiosity-Driven**: Always exploring new attack vectors and defense mechanisms
-- 🎮 **CTF Enthusiast**: Love solving complex cybersecurity puzzles in my free time  
-- 📚 **Continuous Learner**: Reading security research papers and vulnerability disclosures daily
-- ☕ **Coffee-Powered**: Best debugging sessions happen with a good cup of coffee
-- 🌙 **Night Owl**: Most productive coding hours are between 10PM - 2AM
-- 🔧 **Hardware Tinkerer**: Enjoy reverse engineering IoT devices and embedded systems
-- 🎯 **Goal-Oriented**: Working towards becoming a professional penetration tester
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/thienpham5301/thienpham5301/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thienpham5301&color=red&style=for-the-badge&label=Profile+Views" />
-</div>
-
-<div align="center">
-  
-**Thanks for visiting my profile! 🛡️ Stay secure, stay curious! 🔍**
-
-*"In cybersecurity, there are no shortcuts, only continuous learning and adaptation."*
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
