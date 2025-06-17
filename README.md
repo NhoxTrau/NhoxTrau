@@ -18,16 +18,6 @@
 
 ## 🛡️ Skills & Technologies
 
-### 🔎 Penetration Testing & Vulnerability Assessment
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-**Expertise:**
-- Systematic reconnaissance and vulnerability analysis
-- Exploitation techniques and post-exploitation
-- Security assessment reporting and remediation
-
 ### 🖥️ Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -44,9 +34,9 @@
 
 ### 🛠️ Application Security
 **Focus Areas:**
-- Web application vulnerability assessment
-- Mobile app security testing (iOS & Android)
-- Code review and secure development practices
+- OSI Model and TCP/IP protocol analysis
+- Network traffic analysis and intrusion detection
+- Firewall configuration and network segmentation
 
 ### ⚡ Programming Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
