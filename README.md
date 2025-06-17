@@ -1,15 +1,9 @@
-# Xin chào 👋, tôi là [Tên của bạn]
+# Xin chào 👋, tôi là Thiện
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 Về tôi
-- 🔭 Hiện tại tôi đang làm việc với **[Công nghệ/Dự án chính]**
-- 🌱 Đang học **[Kỹ năng mới bạn đang học]**
-- 👯 Tìm kiếm cơ hội hợp tác trong **[Lĩnh vực quan tâm]**
-- 💬 Hỏi tôi về **[Chuyên môn của bạn]**
-- 📫 Liên hệ: **[email@example.com]**
-- ⚡ Sở thích: **[Sở thích cá nhân]**
-
+- 🌱 Đang học **An Toàn Thông Tin**
 ## 🛠️ Ngôn ngữ và Công cụ
 
 ### Languages
