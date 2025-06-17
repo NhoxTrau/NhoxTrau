@@ -11,8 +11,8 @@
 - ☕ **GPA**: 3.21 / 4.0
 - 🎯 **Competitions**: Participated in **CTF**, **ICPC**, and cybersecurity challenges
 - 📧 **Email**: thienpham5301@gmail.com
-- 🔍 **Current Focus**: Penetration Testing & Vulnerability Assessment
-- 🌱 **Learning**: Advanced exploitation techniques and red team methodologies
+- 🔍 **Current Focus**: Network Security
+- 🌱 **Learning**: Networking
 
 ---
 
